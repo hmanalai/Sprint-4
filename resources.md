@@ -45,7 +45,7 @@
 
 15. Youtube: [Information on QoS](https://youtu.be/x7S9xNHqC_o)
 
-16. : [Information on Audio/Video streaming ](https://youtu.be/AeJzoqtuf-o) 
+16. Youtube: [Information on Audio/Video streaming ](https://youtu.be/AeJzoqtuf-o) 
 
 17. Youtube: [Information on Audio/Video streaming ](https://youtu.be/ek1xWmgZlTM) 
 
