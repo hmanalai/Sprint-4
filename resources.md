@@ -55,4 +55,3 @@
 20. Youtube: [TCP and UDP Ports explained](https://www.youtube.com/watch?v=wqImYxaJZ2U)
 
 21. Youtube: [How DNS works](https://www.youtube.com/watch?v=vrxwXXytEuI)
-
