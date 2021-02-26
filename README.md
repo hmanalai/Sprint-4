@@ -9,16 +9,10 @@
 
 For this sprint, you will only be picking one of the following sets of topics:
 
-1. TCP
-2. UDP
-3. Ports
-4. Socket Programming 
-5. DNS 
-6. FTP
-7. Email
-8. Internet/World Wide Web
-9. Audio/Video streaming 
-10. QoS
+1. TCP, UDP, ports
+2. DNS, Internet/World Wide Web
+3. FTP, Email, Socket Programming
+4. Audio/Video streaming, QoS
 
 ## Known Resources
 
@@ -47,4 +41,4 @@ For full credit, by the end of the sprint you will need to have evidence of the 
 
 Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics").
 
-All items should be in your Github repository before 11:55pm on Friday, February 26th.
+All items should be in your Github repository before 11:55pm on Friday, March 5th.
