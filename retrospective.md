@@ -14,7 +14,7 @@ Retrospectives should include the following items:
 
 All cards should be moved to the correct column, updated with the current status, and match the state of the product.
 
-Link to Trello: *Put a link to your Trello board board here*
+Link to Trello: [Team 01 - Trello Board](https://trello.com/b/QKv2eqhH/csc412-sprint4-team1)
 
 ## Github Issue Queue
 
@@ -26,7 +26,9 @@ No product is ever truly complete; this is your opportunity to acknowledge the w
 
 All resources should be listed here. For each resource, in a sentence, describe how useful the resource was for you (e.g., "[Sprint Resources](resources.md "Resources for Sprint") - Very useful, lots of links to other resources")
 
-- ...
+- [What is DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) - Very useful, the article was useful because it discusses what DNS is, the four servers involved in the process, DNS queries, and DNS caching. It also gives an example of the whole process. 
+- [DNS Server Types](https://www.cloudflare.com/learning/dns/dns-server-types/#recursive-resolver) - Very useful, discusses the four types of DNS servers in depth. 
+- [DNS Root Server](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/) - Very useful, it was helpful because it discusses the DNS root server in detail
 
 ## Future Exam questions
 
@@ -38,8 +40,4 @@ What went well, what didn't go well, and why? This is not a report of "what" you
 
 Create a new markdown file in the repository for each student. Link to each reflection here:
 
-[Student 1's Reflection (DELETE ME)](FIXME.md "The markdown file. Delete me!")
-
-[Student 2's Reflection (DELETE ME)](FIXME.md "Another markdown file. Delete me!")
-
-...
+[Hila's Reflection](Hila.md)
